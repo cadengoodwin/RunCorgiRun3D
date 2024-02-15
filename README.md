@@ -11,3 +11,7 @@ Level Design | Dylan Barlava
 (Skybox and particle effects obtained on the unity asset store)
 
 Music & Sounds from Minecraft, Mario Kart Wii, Donkey Kong Country, Epic Sax Guy
+
+------------------------------------------------------------------
+
+Feel free to use code just please provide credit. 
