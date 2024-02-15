@@ -12,6 +12,11 @@ Level Design | Dylan Barlava
 
 Music & Sounds from Minecraft, Mario Kart Wii, Donkey Kong Country, Epic Sax Guy
 
+__________________________________________________________________
+
+Play the game on a web browser here
+https://cagoodwin.itch.io/run-corgi-run-3d
+
 ------------------------------------------------------------------
 
 Feel free to use code just please provide credit. 
